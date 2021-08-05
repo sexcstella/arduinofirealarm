@@ -3,8 +3,10 @@ Fire Alarm IOT project by N. Sagnoy, E. Vasaya, and S. Salazar
 
 
 ## About this project
-Fire Alarm is an IOT project that detects potential fire through 
-analyzing temperature and detection of smoke and heat.
+Fire Alarm is our IOT project that detects potential fire through 
+analyzing temperature and detection of smoke and heat. The user would be able to know the current temperature and would alarm the owner if the device detects a fire within the range of the device, the user can also manually turn off the device when the device causes a false alarm.
+
+The Device would also send temperature inputs to a database for the owner to use in the event that the user would like to know the temperature within a certain time frame.
 
 
 ## Hardware used
