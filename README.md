@@ -7,7 +7,7 @@ Fire Alarm is an IOT project that detects potential fire through
 analyzing temperature and detection of smoke and heat.
 
 
-## Hardware
+## Hardware used
  - Flame Sensor: used to detect fire.
  - LM35: Used to detect the temperature.
  - Potentiometer: used to calibrate the sound of the buzzer.
